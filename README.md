@@ -3,7 +3,7 @@
 A simple web application for searching GitHub users, built with React, styled-components, axios, and Vite. The app allows users to search for GitHub users, sort them by the number of repositories, and navigate to a user's GitHub profile.
 
 ## Demo
-Check out the live demo: [App](https://graceful-zuccutto-b59801.netlify.app/).
+Check out the live demo: [App]([https://graceful-zuccutto-b59801.netlify.app/](https://statuesque-cat-5174a6.netlify.app)).
 
 ## Technologies Used
 

@@ -27,3 +27,8 @@ Check out the live demo: [App](https://graceful-zuccutto-b59801.netlify.app/).
     Pagination: Switch between pages to view additional search results.
 
     Click on a user's name to open a modal with additional information. In the modal, find a button to visit the user's GitHub profile.
+
+## In Plans
+
+    Add few unit tests
+    Add TypeScript to the project
